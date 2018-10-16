@@ -1,1 +1,1 @@
-web: vendor/bin/portifoliolayoutmagazord public/
+web: vendor/bin/heroku-php-apache2 public/
