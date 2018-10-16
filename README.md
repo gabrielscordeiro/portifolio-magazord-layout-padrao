@@ -1,0 +1,1 @@
+# portifolio-magazord-layout-padrao
